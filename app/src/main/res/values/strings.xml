@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">batool_assignment_2</string>
+    <string-array name="city">
+        <item>Ramallah</item>
+        <item>Nablus</item>
+        <item>Hebron</item>
+        <item>Jerusalem</item>
+        <item>Tolkarem</item>
+        <item>Jenin</item>
+    </string-array>
+</resources>
